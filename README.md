@@ -5,7 +5,7 @@
 ### Education
 - M.S., Information Technology Management	| Universidad Cooperativa de Colombia (_2023-Present_)	 			        		
 - B.S., Industrial Engineering | Universidad del Magdalena (_2016-2021_)
-- High School Diploma with Focus in information technology (_2005-2015_)
+- High School Diploma with Focus in information technology | I.E.D. Madre Laura (_2005-2015_)
 
 ### Work Experience
 **Planning Analyst @ Universidad Cooperativa de Colombia (_2023 - Present_)**
