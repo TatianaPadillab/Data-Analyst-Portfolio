@@ -31,7 +31,7 @@ In this project, Microsoft Power BI was used to perform a detailed financial ana
 ![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/analisis financiero.PNG)
 
 By creating comprehensive reports and interactive dashboards, I could provide stakeholders with clear insights into the bank's financial performance. The visualizations and data models allowed for an in-depth examination of trends and facilitated data-driven decision-making.
-![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/analisis financiero.PNG)
+![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/Tatiana Padilla - Finantial analytics in Power Bi.pdf)
 
 
 
