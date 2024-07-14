@@ -15,3 +15,11 @@
 - Created interactive dashboards and detailed reports for presenting data insights in a clear and accessible manner to stakeholders. Play a supportive role in building infrastructure for processing data from various sources, providing a holistic view of company performance and informing next best actions. Using Power BI to present data findings visually to enhance understanding and decision-making.
 
 ### Projects 
+### Comprehensive Analysis of National Test Results Using Excel
+
+Excel was used to gather and analyze national test results of the students, comparing data across different cities, states, institutions, and programs. The data was meticulously organized and cleaned for accuracy, with key metrics such as averages and standard deviations calculated using various statistical functions. Pivot tables and charts were created to facilitate a clear comparative analysis, providing a visual representation of the results.
+
+![Comprehensive Analysis of National Test Results Using Excel](/assets/img/eeg_band_discovery.jpeg)
+
+
+This comprehensive analysis and visualization enabled stakeholders to easily understand the data and make informed decisions. The final Excel file was shared for real-time collaboration, ensuring all team members had access to the same information and insights.
