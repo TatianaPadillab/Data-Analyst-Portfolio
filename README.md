@@ -34,11 +34,12 @@ By creating comprehensive reports and interactive dashboards, I could provide st
 ![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/Tatiana Padilla - Finantial analytics in Power Bi.pdf)
 
 ###  Minnesota Department of Transportation - Traffic Patterns Dashboard
-
+[Publication](https://public.tableau.com/app/profile/tatiana.padilla/viz/MinnesotaDepartmentofTransportation_17169460487550/Dashboard1)
 This dashboard was made for monitoring traffic patterns. The objective was to gain insights into traffic volume throughout the year, organized by year, month, week, day, and hour, as well as traffic volume under different weather conditions and on various holidays. Understanding these traffic patterns would help the department make crucial infrastructure decisions, ensuring that future construction projects do not disrupt traffic flow.
 
-![Minnesota Department of Transportation - Traffic Patterns Dashboard](/images/Power Bi/analisis financiero.PNG)
+![Minnesota Department of Transportation - Traffic Patterns Dashboard](/images/Tableau/Minnesota Project.png)
 
 The Metro Interstate Traffic Volume Data was loaded into Tableau Public and created comprehensive visualizations. These visualizations provided clear insights into how traffic patterns varied across different times and conditions. The project equipped the Minnesota Department of Transportation with the tools and information necessary to plan and execute infrastructure projects with minimal impact on drivers, thereby improving overall traffic management and planning.
 
+![Minnesota Department of Transportation - Traffic Patterns Dashboard](/)
 
