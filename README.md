@@ -67,3 +67,18 @@ This dashboard was made for monitoring traffic patterns. The objective was to ga
 The Metro Interstate Traffic Volume Data was loaded into Tableau Public and created comprehensive visualizations. These visualizations provided clear insights into how traffic patterns varied across different times and conditions. The project equipped the Minnesota Department of Transportation with the tools and information necessary to plan and execute infrastructure projects with minimal impact on drivers, thereby improving overall traffic management and planning.
 
 *See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
+
+###  Guess the Secret Number Game Application Using JavaScript
+
+This application was developed as a simple game where the user is asked to enter a number between 1 and 10. The program provides feedback on whether the entered number is lower or higher than the secret winning number.
+
+![Guess the Secret Number Game Application Using JavaScript](/images/JavaScript/NúmeroSecreto/Aplicacion juego numero secreto.png)
+![Guess the Secret Number Game Application Using JavaScript](/images/JavaScript/NúmeroSecreto/Codigo JavaScript.png)
+
+
+*See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/tree/main/images/JavaScript/N%C3%BAmeroSecreto)**<br />
+
+
+
+
+
