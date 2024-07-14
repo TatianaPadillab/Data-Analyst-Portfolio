@@ -20,6 +20,6 @@
 Excel was used to gather and analyze national test results of the students, comparing data across different cities, states, institutions, and programs. The data was meticulously organized and cleaned for accuracy, with key metrics such as averages and standard deviations calculated using various statistical functions. Pivot tables and charts were created to facilitate a clear comparative analysis, providing a visual representation of the results.
 
 ![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/Excel.png)
-![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/linearregression.png)
+![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/linear regression.png)
 
 This comprehensive analysis and visualization enabled stakeholders to easily understand the data and make informed decisions. The final Excel file was shared for real-time collaboration, ensuring all team members had access to the same information and insights.
