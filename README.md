@@ -23,3 +23,12 @@ Excel was used to gather and analyze national test results of the students, comp
 ![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/linear regression.png)
 
 This comprehensive analysis and visualization enabled stakeholders to easily understand the data and make informed decisions. The final Excel file was shared for real-time collaboration, ensuring all team members had access to the same information and insights.
+
+### The Development Bank in Mexico - Financial Analysis
+
+In this project, Microsoft Power BI was used to perform a detailed financial analysis for the Development Bank in Mexico. The analysis covered key financial indicators such as assets, liabilities, equity, portfolio, reserves, physical assets, net income, profit margin, operational efficiency, ROA, ROE, IMOR, and ICOR.
+
+![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/Excel.png)
+
+
+
