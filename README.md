@@ -43,5 +43,4 @@ This dashboard was made for monitoring traffic patterns. The objective was to ga
 
 The Metro Interstate Traffic Volume Data was loaded into Tableau Public and created comprehensive visualizations. These visualizations provided clear insights into how traffic patterns varied across different times and conditions. The project equipped the Minnesota Department of Transportation with the tools and information necessary to plan and execute infrastructure projects with minimal impact on drivers, thereby improving overall traffic management and planning.
 
-![Minnesota Department of Transportation - Traffic Patterns Dashboard](/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)
-
+*See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
