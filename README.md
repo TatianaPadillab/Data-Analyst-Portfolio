@@ -27,7 +27,7 @@ I developed a detailed dashboard in Power BI Desktop to offer an overview of qua
 
 By reviewing the dataset and selecting appropriate visualizations, I was able to present a clear and engaging narrative of the sales performance. The final report was published on the Power BI service, where the executive board could access a high-level dashboard, while the sales management team could delve into a granular report for more detailed insights. 
 
-*See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
+*See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Power%20Bi/Adventure-Works-Quarterly-Report.pdf)**<br />
 
 ### Comprehensive Analysis of National Test Results Using Excel
 
