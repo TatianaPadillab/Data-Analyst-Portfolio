@@ -38,6 +38,15 @@ Excel was used to gather and analyze national test results of the students, comp
 
 This comprehensive analysis and visualization enabled stakeholders to easily understand the data and make informed decisions. The final Excel file was shared for real-time collaboration, ensuring all team members had access to the same information and insights.
 
+### Average price of listings in Athenas Using Tableau
+
+[Publication](https://public.tableau.com/app/profile/tatiana.padilla/viz/MyfirstchartinTableu/Dashboard1)
+
+These charts were made using data from Airbnb to represent the average price of listings in the area of Athens and a map to represent the concentration of listings in the city.
+
+![Average price of listings in Athenas Using Tableau](/images/Tableau/Average price of listings in Athenas.png)
+
+
 ### The Development Bank in Mexico - Financial Analysis Using Power BI
 
 In this project, Microsoft Power BI was used to perform a detailed financial analysis for the Development Bank in Mexico. The analysis covered key financial indicators such as assets, liabilities, equity, portfolio, reserves, physical assets, net income, profit margin, operational efficiency, ROA, ROE, IMOR, and ICOR.
