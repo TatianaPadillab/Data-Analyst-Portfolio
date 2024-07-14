@@ -28,7 +28,10 @@ This comprehensive analysis and visualization enabled stakeholders to easily und
 
 In this project, Microsoft Power BI was used to perform a detailed financial analysis for the Development Bank in Mexico. The analysis covered key financial indicators such as assets, liabilities, equity, portfolio, reserves, physical assets, net income, profit margin, operational efficiency, ROA, ROE, IMOR, and ICOR.
 
-![Comprehensive Analysis of National Test Results Using Excel](/images/Excel/Excel.png)
+![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/analisis financiero.PNG)
+
+By creating comprehensive reports and interactive dashboards, I could provide stakeholders with clear insights into the bank's financial performance. The visualizations and data models allowed for an in-depth examination of trends and facilitated data-driven decision-making.
+![The Development Bank in Mexico - Financial Analysis](/images/Power Bi/analisis financiero.PNG)
 
 
 
