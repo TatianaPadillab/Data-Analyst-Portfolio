@@ -35,6 +35,7 @@ By creating comprehensive reports and interactive dashboards, I could provide st
 
 ###  Minnesota Department of Transportation - Traffic Patterns Dashboard
 [Publication](https://public.tableau.com/app/profile/tatiana.padilla/viz/MinnesotaDepartmentofTransportation_17169460487550/Dashboard1)
+
 This dashboard was made for monitoring traffic patterns. The objective was to gain insights into traffic volume throughout the year, organized by year, month, week, day, and hour, as well as traffic volume under different weather conditions and on various holidays. Understanding these traffic patterns would help the department make crucial infrastructure decisions, ensuring that future construction projects do not disrupt traffic flow.
 
 ![Minnesota Department of Transportation - Traffic Patterns Dashboard](/images/Tableau/Minnesota Project.png)
