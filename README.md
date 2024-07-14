@@ -15,6 +15,15 @@
 - Created interactive dashboards and detailed reports for presenting data insights in a clear and accessible manner to stakeholders. Play a supportive role in building infrastructure for processing data from various sources, providing a holistic view of company performance and informing next best actions. Using Power BI to present data findings visually to enhance understanding and decision-making.
 
 ### Projects 
+
+### Adventure Works - Quarterly Sales Performance Dashboard Using Microsoft Power BI
+
+This project was for Adventure Works, a multinational bicycle manufacturer. The goal was to provide the executive board and sales management team with insights into quarterly sales performance to support strategic decision-making for the upcoming quarter.
+
+![Adventure Works - Quarterly Sales Performance Dashboard Using Microsoft Power BI](/images/Excel/Excel.png)
+
+
+
 ### Comprehensive Analysis of National Test Results Using Excel
 
 Excel was used to gather and analyze national test results of the students, comparing data across different cities, states, institutions, and programs. The data was meticulously organized and cleaned for accuracy, with key metrics such as averages and standard deviations calculated using various statistical functions. Pivot tables and charts were created to facilitate a clear comparative analysis, providing a visual representation of the results.
