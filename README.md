@@ -18,11 +18,16 @@
 
 ### Adventure Works - Quarterly Sales Performance Dashboard Using Microsoft Power BI
 
+[Publication](https://app.powerbi.com/groups/me/reports/670cdae3-5544-4b39-85f2-ee44ae2eb6ac/ReportSection6eb9e839d2d78881aa25?language=en-US&experience=power-bi)
+
 This project was for Adventure Works, a multinational bicycle manufacturer. The goal was to provide the executive board and sales management team with insights into quarterly sales performance to support strategic decision-making for the upcoming quarter.
+I developed a detailed dashboard in Power BI Desktop to offer an overview of quarterly sales performance for the executive board. A separate, interactive report was created for the sales management team to explore sales data in greater detail. The analysis highlighted trends in sales by region, category, and salesperson, and summarized key takeaways for both the board of directors and the sales management team.
 
-![Adventure Works - Quarterly Sales Performance Dashboard Using Microsoft Power BI](/images/Excel/Excel.png)
+![Adventure Works - Quarterly Sales Performance Dashboard Using Microsoft Power BI](/images/Power Bi/Adventure-Works-Quarterly-Report.png)
 
+By reviewing the dataset and selecting appropriate visualizations, I was able to present a clear and engaging narrative of the sales performance. The final report was published on the Power BI service, where the executive board could access a high-level dashboard, while the sales management team could delve into a granular report for more detailed insights. 
 
+*See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
 
 ### Comprehensive Analysis of National Test Results Using Excel
 
