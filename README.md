@@ -89,5 +89,5 @@ The cleaned and preprocessed dataset was then analyzed using various visualizati
 ![Used Cars Pricing - Data Wrangling Using Python in JupyterLite](/images/Python/Pythoncode.jpg)
 ![Used Cars Pricing - Data Wrangling Using Python in JupyterLite](/images/Python/Python 2.PNG)
 
-*See Code here:* **[HERE](images/Python/Used cars project Tatiana Padilla.ipynb)**<br />
+*See Code here:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Python/Used%20cars%20project%20Tatiana%20Padilla.ipynb)**<br />
 
