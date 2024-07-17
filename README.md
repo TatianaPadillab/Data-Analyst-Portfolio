@@ -86,7 +86,8 @@ In this project, I utilized data wrangling techniques to transform raw data into
 -Data Standardization and Normalization: Applied standardization and normalization techniques to improve the interpretability and comparability of the data.
 The cleaned and preprocessed dataset was then analyzed using various visualization techniques, including histograms, to uncover patterns and insights. All steps were documented and executed within a JupyterLite notebook, showcasing the transformation process and the resulting improvements in data quality and usability.
 
-![Guess the Secret Number Game Application Using JavaScript](/images/JavaScript/NúmeroSecreto/Aplicacion juego numero secreto.png)
+![Used Cars Pricing - Data Wrangling Using Python in JupyterLite](/images/Python/Pythoncode.jpg)
+![Used Cars Pricing - Data Wrangling Using Python in JupyterLite](/images/Python/Python 2.PNG)
 
 *See Code here:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
 
