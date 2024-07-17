@@ -78,7 +78,15 @@ This application was developed as a simple game where the user is asked to enter
 
 *See more:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/tree/main/images/JavaScript/N%C3%BAmeroSecreto)**<br />
 
+### Used Cars Pricing - Data Wrangling Using Python in JupyterLite
 
+In this project, I utilized data wrangling techniques to transform raw data into a structured format suitable for in-depth analysis using Python. The project involved the following key steps:
+-Handling Missing Values: Identified and addressed missing values to ensure data completeness.
+-Correcting Data Formatting: Standardized data formats to maintain consistency across the dataset.
+-Data Standardization and Normalization: Applied standardization and normalization techniques to improve the interpretability and comparability of the data.
+The cleaned and preprocessed dataset was then analyzed using various visualization techniques, including histograms, to uncover patterns and insights. All steps were documented and executed within a JupyterLite notebook, showcasing the transformation process and the resulting improvements in data quality and usability.
 
+![Guess the Secret Number Game Application Using JavaScript](/images/JavaScript/NúmeroSecreto/Aplicacion juego numero secreto.png)
 
+*See Code here:* **[HERE](https://github.com/TatianaPadillab/Data-Analyst-Portfolio/blob/main/images/Tableau/Minnesota-traffic-volume-slide-presentation.pdf)**<br />
 
